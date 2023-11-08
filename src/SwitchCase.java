@@ -3,13 +3,12 @@ import java.util.Scanner;
 public class SwitchCase {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("enter moungt");
+        System.out.println("Enter day of the week");
         int dayOfTheWeek = sc.nextInt();
     switch (dayOfTheWeek){
         case 1:
             System.out.println("Monday");
         break;
-
             case 2:
             System.out.println("Tuesday");
             break;
