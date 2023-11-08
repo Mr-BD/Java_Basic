@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
-//Напишете програма, която чете от конзолата дробно число и принтира цялата му част.
-//Write a program that reads a fractional number from the console and prints its whole part.
+/*Напишете програма, която чете от конзолата дробно число и принтира цялата му част.
+Write a program that reads a fractional number from the console and prints its whole part.
+*/
 public class Exercise_1 {
     public static void main(String[] args) {
 

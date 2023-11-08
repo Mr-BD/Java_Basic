@@ -4,8 +4,8 @@ public class SwitchCase {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter moungt");
-        int mounght = sc.nextInt();
-    switch (mounght){
+        int dayOfTheWeek = sc.nextInt();
+    switch (dayOfTheWeek){
         case 1:
             System.out.println("Monday");
         break;
@@ -29,7 +29,7 @@ public class SwitchCase {
             System.out.println("Sunday");
             break;
         default:
-            System.out.println("this is the end!");
+            System.out.println("End of the week");
     }
 
     }

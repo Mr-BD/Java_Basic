@@ -1,8 +1,10 @@
 import java.util.Scanner;
-//import static java.lang.System.out;
 
-//Напишете програма , която чете две числа от конзолата A и B.
-// Принтирайте в конзолата: "A is bigger then B" ако A е по-голямо от B, или "A is smaller then B", ako A е по-малко от B.
+ /*
+ Напишете програма , която чете две числа от конзолата A и B.
+Принтирайте в конзолата: "A is bigger then B" ако A е по-голямо от B, или "A is smaller then B", ako A е по-малко от B.
+*/
+
 public class NumCompare {
 
     public static void main(String[] args) {
