@@ -1,3 +1,5 @@
+package java_basic_exercises;
+
 import java.util.Scanner;
 
 /*Напишете програма, която чете от конзолата дробно число и принтира цялата му част.
