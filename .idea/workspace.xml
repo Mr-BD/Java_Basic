@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd91d207-762c-4e5c-b00f-a69e048825df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/AvarageGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/Compliment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConsoleRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_basic_exercises/ConsoleRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CurrencyCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_basic_exercises/CurrencyCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_basic_exercises/Exercise_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_basic_exercises/NumCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SalaryCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_basic_exercises/SalaryCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_basic_exercises/SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/AvarageGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/AvarageGrade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
