@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd91d207-762c-4e5c-b00f-a69e048825df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/loops/EvenNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loops/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/Loops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <recent name="methods" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Loop">
+  <component name="RunManager" selected="Application.EvenNumbers">
     <configuration name="AvarageGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methods.AvarageGrade" />
       <module name="Java_Basic" />
@@ -93,8 +94,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.Loop" />
+    <configuration name="EvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.EvenNumbers" />
+      <module name="Java_Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.Loops" />
       <module name="Java_Basic" />
       <extension name="coverage">
         <pattern>
@@ -108,7 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Loop" />
+        <item itemvalue="Application.EvenNumbers" />
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.CountryCode" />
         <item itemvalue="Application.Compliment" />
         <item itemvalue="Application.AvarageGrade" />

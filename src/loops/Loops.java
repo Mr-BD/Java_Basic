@@ -2,7 +2,7 @@ package loops;
 
 import java.util.Scanner;
 
-public class Loop {
+public class Loops {
 
     public static void printNumbers(int n){
         int i = 1;
