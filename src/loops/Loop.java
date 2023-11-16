@@ -11,12 +11,21 @@ public class Loop {
             i++;
         }
     }
+//do-While loop
+    public static void printNumbersDoWhile(int n){
+        int num = 1;
+        do{
+            num++;
+            System.out.println(num);
+        }while (num < 10);
+    }
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter a number: ");
+        System.out.print("Enter a number: ");
         int n = scanner.nextInt();
         printNumbers(n);
+        printNumbersDoWhile(n);
    }
 
 }
